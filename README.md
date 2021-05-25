@@ -15,7 +15,7 @@
 <br />
 <br />
 
-- This is the place where I opensource stuff and break things 🤣
+- 🤣 This is the place where I opensource stuff and break things. 
 
 - 👀 I’m interested in Competitive Programming and Development.
 
@@ -25,15 +25,26 @@
 
 - 💬 Ask me about stuff related to programming.
 
-- 📫 How to reach me Mail : abhisekmishra1709@gmail.com
+- 📫 Reach me via Mail : abhisekmishra1709@gmail.com
 
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns : He/Him/His
 
 I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and C++ Programming and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like Codeforces, Codechef etc.
 
 
 **Languages and Tools:**
-- Programming - CPP, Java, C language, Python
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+- Programming - Java, CPP, C language, Python
 - Web Development - Javascript, NodeJS, CSS, HTML
 
 **Competitive Programming Profile:**
@@ -41,7 +52,7 @@ I am dedicated to telling stories with Computer Science. I am a geek enthusiast 
 - Leetcode - [abhisekmishra1709](https://leetcode.com/abhisekmishra1709/)
 
 Cheers,<br />
-Abhisek<br />
+Abhisek.<br />
 [abhisekmishra1709](https://github.com/abhisekmishra1709)
 
 <div align="center">
